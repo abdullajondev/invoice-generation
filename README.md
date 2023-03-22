@@ -1,0 +1,1 @@
+This is an app thay creates PDF invoices out of Excel files.
